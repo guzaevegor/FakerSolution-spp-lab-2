@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\FakerLib\FakerLib.csproj" />
+  </ItemGroup>
+
 </Project>
